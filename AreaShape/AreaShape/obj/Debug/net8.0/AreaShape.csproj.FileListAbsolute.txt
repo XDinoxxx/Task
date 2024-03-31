@@ -1,0 +1,11 @@
+D:\fun\AreaShape\AreaShape\bin\Debug\net8.0\AreaShape.deps.json
+D:\fun\AreaShape\AreaShape\bin\Debug\net8.0\AreaShape.dll
+D:\fun\AreaShape\AreaShape\bin\Debug\net8.0\AreaShape.pdb
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\AreaShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\AreaShape.AssemblyInfoInputs.cache
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\AreaShape.AssemblyInfo.cs
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\AreaShape.csproj.CoreCompileInputs.cache
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\AreaShape.dll
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\refint\AreaShape.dll
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\AreaShape.pdb
+D:\fun\AreaShape\AreaShape\obj\Debug\net8.0\ref\AreaShape.dll
